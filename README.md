@@ -1,2 +1,2 @@
-# Plant-disease-detection-via-image-processing-and-machine-learning
-Plant disease detection via image processing and machine learning
+# Precision Agriculture: AI-Powered Plant Disease Detection System
+
